@@ -1,0 +1,90 @@
+body{
+    background:url('https://www.wikihow.com/images/thumb/4/42/Play-%22Flame%22-Step-6-Version-2.jpg/v4-460px-Play-%22Flame%22-Step-6-Version-2.jpg') no-repeat center center/cover;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgba(0,0,0,0.5);
+    box-shadow: inset -5px -5px rgba(0,0,0,0.5) ;
+    border-radius: 25px;
+}
+.form h1{
+    color:aqua;
+    font-size: 2rem;
+    border-bottom: 4px solid rgba(255,255,255.5);
+    margin:25px;
+}
+.box{
+    padding: 8px;
+    margin:5px;
+    width:65%;
+    border:none;
+    outline:none;
+    border-radius:100px;
+}
+#submit{
+    padding:7px 15px;
+    margin-top: 20px;
+    width:40%;
+    border-radius: 20px;
+    font-size: 1rem;
+    color:black;
+    background-color:bisque;
+    text-shadow: 50;
+}
+#submit:hover{
+    cursor: pointer;
+    background-color: white;
+    color:black;
+}
+body{
+    background:url('https://www.wikihow.com/images/thumb/4/42/Play-%22Flame%22-Step-6-Version-2.jpg/v4-460px-Play-%22Flame%22-Step-6-Version-2.jpg') no-repeat center center/cover;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgba(0,0,0,0.5);
+    box-shadow: inset -5px -5px rgba(0,0,0,0.5) ;
+    border-radius: 25px;
+}
+.form h1{
+    color:aqua;
+    font-size: 2rem;
+    border-bottom: 4px solid rgba(255,255,255.5);
+    margin:25px;
+}
+.box{
+    padding: 8px;
+    margin:5px;
+    width:65%;
+    border:none;
+    outline:none;
+    border-radius:100px;
+}
+#submit{
+    padding:7px 15px;
+    margin-top: 20px;
+    width:40%;
+    border-radius: 20px;
+    font-size: 1rem;
+    color:black;
+    background-color:bisque;
+    text-shadow: 50;
+}
+#submit:hover{
+    cursor: pointer;
+    background-color: white;
+    color:black;
+}
